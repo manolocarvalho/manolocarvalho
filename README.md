@@ -1,4 +1,4 @@
-## Olá todos, eu sou o Manoel Carvalho - [manolocarvalho][github] 👋
+## Olá todos, eu sou o Manoel Carvalho - [manoelcarvalho][github] 👋
 
 ### Sobre mim...
 - ⚡ Sou marido, pai, professor e programador nas horas vagas!
@@ -23,10 +23,10 @@
 </table>
 
 ### Total de contribuições
-[![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TheNeoCarvalho&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manoelcarvalho&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Visualizações
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheNeoCarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="daviaquino87" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoelcarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="daviaquino87" /> </p>
 
 ### Redes Sociais
 [<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] 
